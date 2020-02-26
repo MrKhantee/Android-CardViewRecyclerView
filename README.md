@@ -1,3 +1,5 @@
+## ListsAndCards
+
 ### Tuts+ Tutorial: Getting Started With RecyclerView and CardView on Android
 
 #### Instructor: Hathibelagal Ashraff
@@ -7,3 +9,6 @@ Android Lollipop introduced two new widgets, RecyclerView and CardView. In this 
 Source files for the Tuts+ tutorial: [Getting Started With RecyclerView and CardView on Android](http://code.tutsplus.com/tutorials/getting-started-with-recyclerview-and-cardview-on-android--cms-23465)
 
 **Read this tutorial on [Tuts+](https://code.tutsplus.com)**
+
+![Screenshot](Screenshot_2020-02-26-19-02-59.png)
+![Screenshot](Screenshot_2020-02-26-19-03-25.png)
